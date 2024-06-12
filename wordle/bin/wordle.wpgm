@@ -1,0 +1,8 @@
+import wollok.game.*
+import baseDeDatos.*
+
+program wordle {
+
+	game.start()
+
+}
